@@ -1,0 +1,16 @@
+node_modules/
+.idea/
+dist/bundle.js
+dist/bundle.js.map
+dist/*.ttf
+dist/*.eot
+dist/*.woff
+dist/*.svg
+dist/*.woff2
+dist/bundle.js.map
+src/**/*.js
+src/**/*.js.map
+typings/
+js_out/
+torrents-matcher-*
+build/

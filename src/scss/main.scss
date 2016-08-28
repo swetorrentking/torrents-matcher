@@ -1,0 +1,70 @@
+@import "~bootstrap-sass/assets/stylesheets/bootstrap-sprockets";
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+body {
+  background: $gray-lighter;
+}
+
+#root {
+  padding-top: 40px;
+}
+
+.fa-upload {
+  color: green;
+}
+
+input {
+  max-width: 400px;
+}
+
+.menu {
+  max-width: 250px;
+}
+
+.nav-stacked {
+  padding-right: 15px;
+  //height: 575px;
+}
+
+select {
+  min-width: 120px;
+  max-width: 200px;
+}
+
+.table > tbody > tr > td,
+.fa-spinner {
+  &.vertical-align-middle {
+    vertical-align: middle;
+  }
+}
+
+.search-result-message {
+  margin-top: 20px;
+}
+
+.form-inline {
+  select,
+  input,
+  button {
+    margin-left: 10px;
+  }
+
+  input {
+    margin-right: 5px;
+  }
+}
+
+.trackers-container {
+  .fa-check.status {
+    color: green;
+  }
+  .fa-times.status {
+    color: red;
+  }
+}
+
+.search-container {
+  .actions-container {
+    min-width: 102px;
+  }
+}
