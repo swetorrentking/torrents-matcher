@@ -11,7 +11,7 @@ the swedish torrent king
 * Cross-platform(ElectronJS)
 * Built with TypeScript and React
 
-## Start developing
+## Start dev environment
 ```sh
 # Install the `electron` command globally in your $PATH
 npm install electron -g
