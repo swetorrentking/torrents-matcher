@@ -10,6 +10,7 @@ the swedish torrent king
 * Integration with qBittorrent and µTorrent.
 * Cross-platform(ElectronJS)
 * Built with TypeScript and React
+
 ## Start developing
 ```sh
 # Install the `electron` command globally in your $PATH
